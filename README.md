@@ -9,21 +9,19 @@ The goal of this project is to use historical weather data to make predictions a
 ## Installation
 
 1. Clone the repository:
-\`\`\`
-git clone https://github.com/yourusername/weather_prediction_with_pytorch.git
-\`\`\`
+```
+git clone https://github.com/zaheerh4ck3r/weather_prediction_with_pytorch.git
+```
 2. Install the required packages:
-\`\`\`
-pip install -r requirements.txt
-\`\`\`
+```pip install -r requirements.txt
+```
 
 ## Usage
 
 To run the project, execute the main script:
-\`\`\`
+```
 python main.py
-\`\`\`
-
+```
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
